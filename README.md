@@ -488,6 +488,7 @@ El directorio [data/](data/) contiene archivos realistas para los ejercicios:
 8. **Generador de Reportes** - Lectura múltiple + escritura
 9. **Validador de Datos** - CSV + validación + reportes de errores
 10. **Sistema de Empleados** - JSON complejo + CRUD completo
+11. **⚡ Edición Parcial de Archivos** _(Avanzado/Opcional)_ - `seek()`, `tell()`, modo `r+`, edición in-place
 
 ---
 
@@ -523,6 +524,24 @@ with open('archivo.txt', 'r', encoding='utf-8') as f:
     contenido = f.read()
 # Archivo cerrado automáticamente aquí
 ```
+
+---
+
+## ⚡ Técnicas Avanzadas (Opcional)
+
+### Edición Parcial de Archivos (In-Place)
+
+⚠️ **Solo para usuarios avanzados**: La mayoría de los casos requieren leer→modificar→escribir completo.
+
+**Ver**: [Ejercicio 11 - Edición Parcial](ejercicios/11_edicion_parcial_archivos/) para técnicas avanzadas con `seek()`, `tell()`, y modo `r+`.
+
+**Cuándo usar**:
+- Archivos muy grandes (GB+)
+- Solo modificar bytes específicos
+- Formato de ancho fijo conocido
+- Con sistema de respaldo
+
+**Preferir siempre** el patrón seguro: `leer() → modificar() → escribir()`
 
 ---
 
