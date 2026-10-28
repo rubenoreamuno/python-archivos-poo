@@ -1,0 +1,16 @@
+id_transaccion,fecha,tipo,monto,cuenta,descripcion
+TXN001,2024-01-15,deposito,500.00,CTA-1001,Depósito inicial
+TXN002,2024-01-16,retiro,100.00,CTA-1001,Retiro cajero
+TXN003,2024-01-17,deposito,750.00,CTA-1002,Transferencia recibida
+TXN004,2024-01-18,retiro,250.00,CTA-1001,Pago servicios
+TXN005,2024-01-19,deposito,1000.00,CTA-1003,Salario
+TXN006,2024-01-20,retiro,50.00,CTA-1002,Retiro cajero
+TXN007,2024-01-21,retiro,300.00,CTA-1003,Pago alquiler
+TXN008,2024-01-22,deposito,200.00,CTA-1001,Depósito efectivo
+TXN009,2024-01-23,retiro,75.00,CTA-1002,Compra supermercado
+TXN010,2024-01-24,deposito,500.00,CTA-1003,Bono
+TXN011,2024-01-25,retiro,150.00,CTA-1001,Pago tarjeta
+TXN012,2024-01-26,deposito,300.00,CTA-1002,Freelance
+TXN013,2024-01-27,retiro,200.00,CTA-1003,Compras varias
+TXN014,2024-01-28,deposito,450.00,CTA-1001,Venta productos
+TXN015,2024-01-29,retiro,100.00,CTA-1002,Gasolina

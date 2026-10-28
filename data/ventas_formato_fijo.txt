@@ -1,0 +1,16 @@
+CODIGO    FECHA      PRODUCTO              CANTIDAD PRECIO   TOTAL    
+P001      20240115   Laptop Dell           2        1250.00  2500.00  
+P002      20240115   Mouse Logitech        5        25.50    127.50   
+P003      20240116   Teclado Mecánico      3        89.99    269.97   
+P004      20240116   Monitor Samsung       1        320.00   320.00   
+P005      20240117   Disco Duro Externo    4        75.00    300.00   
+P006      20240117   Memoria USB           10       15.99    159.90   
+P007      20240118   Webcam HD             2        45.00    90.00    
+P008      20240118   Auriculares           3        65.50    196.50   
+P009      20240119   Impresora HP          1        199.99   199.99   
+P010      20240119   Router WiFi           2        85.00    170.00   
+P011      20240120   Cable HDMI            8        12.50    100.00   
+P012      20240120   Hub USB               5        18.99    94.95    
+P001      20240121   Laptop Dell           1        1250.00  1250.00  
+P004      20240121   Monitor Samsung       2        320.00   640.00   
+P005      20240122   Disco Duro Externo    3        75.00    225.00   

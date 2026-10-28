@@ -1,0 +1,89 @@
+{
+  "nombre": "Biblioteca Central Universidad",
+  "direccion": "Av. Principal 123",
+  "libros": [
+    {
+      "isbn": "978-0307474728",
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "anio": 1967,
+      "genero": "Ficción",
+      "disponibles": 3,
+      "prestamos": [
+        {
+          "id_prestamo": "P001",
+          "usuario": "Ana García",
+          "fecha_prestamo": "2024-01-10",
+          "fecha_devolucion": "2024-01-24",
+          "devuelto": true
+        },
+        {
+          "id_prestamo": "P002",
+          "usuario": "Luis Martínez",
+          "fecha_prestamo": "2024-01-20",
+          "fecha_devolucion": "2024-02-03",
+          "devuelto": false
+        }
+      ]
+    },
+    {
+      "isbn": "978-8420412146",
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "anio": 1605,
+      "genero": "Clásico",
+      "disponibles": 5,
+      "prestamos": [
+        {
+          "id_prestamo": "P003",
+          "usuario": "María López",
+          "fecha_prestamo": "2024-01-15",
+          "fecha_devolucion": "2024-01-29",
+          "devuelto": true
+        }
+      ]
+    },
+    {
+      "isbn": "978-0060883287",
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "anio": 1943,
+      "genero": "Infantil",
+      "disponibles": 8,
+      "prestamos": []
+    },
+    {
+      "isbn": "978-8437604947",
+      "titulo": "La Casa de Bernarda Alba",
+      "autor": "Federico García Lorca",
+      "anio": 1936,
+      "genero": "Teatro",
+      "disponibles": 2,
+      "prestamos": [
+        {
+          "id_prestamo": "P004",
+          "usuario": "Carlos Rodríguez",
+          "fecha_prestamo": "2024-01-18",
+          "fecha_devolucion": "2024-02-01",
+          "devuelto": false
+        },
+        {
+          "id_prestamo": "P005",
+          "usuario": "Sofía Hernández",
+          "fecha_prestamo": "2024-01-22",
+          "fecha_devolucion": "2024-02-05",
+          "devuelto": false
+        }
+      ]
+    },
+    {
+      "isbn": "978-8420471839",
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "anio": 1963,
+      "genero": "Ficción",
+      "disponibles": 4,
+      "prestamos": []
+    }
+  ]
+}

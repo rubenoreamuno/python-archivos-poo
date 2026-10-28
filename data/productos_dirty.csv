@@ -1,0 +1,10 @@
+codigo,nombre,precio,stock
+P100,Producto A,45.50,10
+P101,Producto B,invalid_price,15
+P102,Producto C,67.89,25
+P103,Producto D,89.99,-5
+P104,,55.00,30
+P105,Producto F,120.00,abc
+P106,Producto G,35.50,20
+P107,Producto H,0,15
+P108,Producto I,78.90,50

@@ -1,0 +1,13 @@
+codigo,nombre,categoria,precio,stock,proveedor
+P001,Laptop Dell Inspiron,Computadoras,1250.00,15,TechSupply
+P002,Mouse Logitech,Periféricos,25.50,50,OfficeMax
+P003,Teclado Mecánico,Periféricos,89.99,30,TechSupply
+P004,Monitor Samsung 24",Monitores,320.00,12,ElectroStore
+P005,Disco Duro Externo 1TB,Almacenamiento,75.00,25,DataWorld
+P006,Memoria USB 64GB,Almacenamiento,15.99,100,DataWorld
+P007,Webcam HD,Periféricos,45.00,20,OfficeMax
+P008,Auriculares Bluetooth,Audio,65.50,18,TechSupply
+P009,Impresora HP,Impresoras,199.99,8,OfficeMax
+P010,Router WiFi,Redes,85.00,22,ElectroStore
+P011,Cable HDMI 2m,Cables,12.50,60,ElectroStore
+P012,Hub USB 4 puertos,Periféricos,18.99,35,TechSupply

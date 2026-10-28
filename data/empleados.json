@@ -1,0 +1,79 @@
+{
+  "empresa": "TechCorp S.A.",
+  "departamentos": [
+    {
+      "id": "DEP001",
+      "nombre": "Desarrollo",
+      "empleados": [
+        {
+          "id": "EMP001",
+          "nombre": "Ana García",
+          "cargo": "Desarrolladora Senior",
+          "salario": 3500.00,
+          "fecha_ingreso": "2020-03-15",
+          "habilidades": ["Python", "JavaScript", "SQL", "Docker"]
+        },
+        {
+          "id": "EMP002",
+          "nombre": "Luis Martínez",
+          "cargo": "Desarrollador Junior",
+          "salario": 2000.00,
+          "fecha_ingreso": "2023-01-10",
+          "habilidades": ["Python", "HTML", "CSS"]
+        },
+        {
+          "id": "EMP003",
+          "nombre": "Carlos Rodríguez",
+          "cargo": "Tech Lead",
+          "salario": 5000.00,
+          "fecha_ingreso": "2018-07-20",
+          "habilidades": ["Python", "Java", "Kubernetes", "AWS", "Architecture"]
+        }
+      ]
+    },
+    {
+      "id": "DEP002",
+      "nombre": "Recursos Humanos",
+      "empleados": [
+        {
+          "id": "EMP004",
+          "nombre": "María López",
+          "cargo": "Gerente RRHH",
+          "salario": 4000.00,
+          "fecha_ingreso": "2019-05-12",
+          "habilidades": ["Gestión de personal", "Reclutamiento", "Nómina"]
+        },
+        {
+          "id": "EMP005",
+          "nombre": "Sofía Hernández",
+          "cargo": "Analista RRHH",
+          "salario": 2500.00,
+          "fecha_ingreso": "2022-09-01",
+          "habilidades": ["Reclutamiento", "Entrevistas", "Excel"]
+        }
+      ]
+    },
+    {
+      "id": "DEP003",
+      "nombre": "Ventas",
+      "empleados": [
+        {
+          "id": "EMP006",
+          "nombre": "Diego González",
+          "cargo": "Ejecutivo de Ventas",
+          "salario": 2800.00,
+          "fecha_ingreso": "2021-11-08",
+          "habilidades": ["Negociación", "CRM", "Prospección"]
+        },
+        {
+          "id": "EMP007",
+          "nombre": "Laura Pérez",
+          "cargo": "Gerente de Ventas",
+          "salario": 4500.00,
+          "fecha_ingreso": "2017-02-14",
+          "habilidades": ["Liderazgo", "Estrategia comercial", "Análisis de mercado"]
+        }
+      ]
+    }
+  ]
+}

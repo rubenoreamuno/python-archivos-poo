@@ -1,0 +1,16 @@
+id_estudiante,materia,nota,creditos,periodo
+1001,Cálculo I,9.5,4,2024-1
+1001,Programación I,10.0,3,2024-1
+1001,Física I,8.7,4,2024-1
+1002,Cálculo I,7.5,4,2024-1
+1002,Programación I,9.2,3,2024-1
+1002,Física I,8.0,4,2024-1
+1003,Álgebra Lineal,9.8,3,2024-1
+1003,Programación II,9.5,3,2024-1
+1003,Estructuras de Datos,10.0,4,2024-1
+1004,Cálculo II,6.5,4,2024-1
+1004,Base de Datos,8.8,3,2024-1
+1004,Ingeniería de Software,9.0,4,2024-1
+1005,Cálculo I,8.9,4,2024-1
+1005,Programación I,9.7,3,2024-1
+1005,Física I,8.5,4,2024-1

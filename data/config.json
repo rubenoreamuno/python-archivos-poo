@@ -1,0 +1,46 @@
+{
+  "aplicacion": {
+    "nombre": "Sistema de Gestión Académica",
+    "version": "2.1.0",
+    "entorno": "produccion"
+  },
+  "base_datos": {
+    "host": "localhost",
+    "puerto": 5432,
+    "nombre_bd": "universidad_db",
+    "usuario": "admin",
+    "max_conexiones": 50,
+    "timeout": 30
+  },
+  "servidor": {
+    "host": "0.0.0.0",
+    "puerto": 8080,
+    "debug": false,
+    "workers": 4
+  },
+  "logging": {
+    "nivel": "INFO",
+    "archivo": "logs/app.log",
+    "max_size_mb": 100,
+    "rotacion": true,
+    "formato": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  "email": {
+    "servidor_smtp": "smtp.universidad.edu",
+    "puerto": 587,
+    "usar_tls": true,
+    "remitente": "notificaciones@universidad.edu"
+  },
+  "seguridad": {
+    "jwt_secret": "tu_secreto_super_seguro",
+    "jwt_expiracion_horas": 24,
+    "intentos_login_max": 5,
+    "bloqueo_minutos": 30
+  },
+  "limites": {
+    "max_estudiantes_por_curso": 40,
+    "max_creditos_por_semestre": 22,
+    "nota_minima_aprobacion": 6.0,
+    "asistencia_minima_porcentaje": 75
+  }
+}

@@ -1,0 +1,15 @@
+La programación orientada a objetos es un paradigma de programación que utiliza objetos y sus interacciones para diseñar aplicaciones y programas. La programación es fundamental en la ingeniería de software moderna.
+
+Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Python es ampliamente utilizado en ciencia de datos, desarrollo web y automatización.
+
+Los archivos son una forma fundamental de persistir datos en aplicaciones. El manejo de archivos permite leer y escribir información de forma permanente. Los archivos pueden ser de texto plano, CSV, JSON, XML y muchos otros formatos.
+
+La ingeniería de software requiere el dominio de múltiples conceptos y herramientas. La práctica constante es esencial para mejorar las habilidades de programación. Los estudiantes de ingeniería deben dedicar tiempo al desarrollo de proyectos prácticos.
+
+El aprendizaje de estructuras de datos es crucial para cualquier programador. Las estructuras de datos permiten organizar y almacenar información de manera eficiente. Conocer las estructuras de datos adecuadas mejora significativamente el rendimiento de las aplicaciones.
+
+Las buenas prácticas de programación incluyen escribir código limpio, documentar adecuadamente y seguir convenciones de estilo. El código limpio es más fácil de mantener y entender por otros desarrolladores. La documentación es una inversión que ahorra tiempo a largo plazo.
+
+Los sistemas de control de versiones como Git son herramientas esenciales para desarrolladores. Git permite colaborar eficientemente en proyectos de software. El control de versiones facilita el seguimiento de cambios y la gestión de código.
+
+La resolución de problemas es una habilidad fundamental en programación. Los algoritmos son secuencias de pasos para resolver problemas específicos. Pensar algorítmicamente ayuda a descomponer problemas complejos en partes manejables.
