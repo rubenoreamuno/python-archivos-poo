@@ -1,0 +1,4 @@
+{
+  "inventario_path" : "./data/Inventariotrigueros.csv",
+  "ventas_ruta" : "./data/ventas.csv"
+}

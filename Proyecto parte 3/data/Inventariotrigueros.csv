@@ -1,0 +1,12 @@
+codigo;nombre;categoria;stock;stock_minimo;precio_compra;precio_venta;fecha_vencimiento
+L001; Leche; l cteos;15;5;1000;1200; 2026-10-31
+L002; Queso; l cteos;2;5;800;1200; 2026-10-28
+E001; leche condensada; enlatados;8;4;1000;1500; 2027-03-31
+G008; Lechuga; legumbres;25;10;300;700; 2026-10-21
+G003; Tomate; legumbres;5;12;500;800; 2026-10-25
+E014; Maiz dulce; enlatados;20;25;600;1000; 2027-02-25
+G405; Albahaca ; legumbres;12;10;300;600; 2026-10-21
+L023; Yogurt; l cteos;13;10;800;1200; 2026-10-31
+E015; Garbanzos; enlatados;20;15;500;850; 2027-01-15
+L902; Natilla; l cteos;7;5;450;850; 2026-12-06
+L001; Leche; l cteos;15;5;1000;1200;2026-10-31
