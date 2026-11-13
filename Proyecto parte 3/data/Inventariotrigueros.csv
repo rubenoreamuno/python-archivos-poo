@@ -9,4 +9,4 @@ G405; Albahaca ; legumbres;12;10;300;600; 2026-10-21
 L023; Yogurt; l cteos;13;10;800;1200; 2026-10-31
 E015; Garbanzos; enlatados;20;15;500;850; 2027-01-15
 L902; Natilla; l cteos;7;5;450;850; 2026-12-06
-L001; Leche; l cteos;15;5;1000;1200;2026-10-31
+L021, Leche, lacteos,15,5,1000.0,1200.0,2026-10-31
